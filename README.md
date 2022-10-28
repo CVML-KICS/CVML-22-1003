@@ -21,3 +21,5 @@ For the Car and Person detection from a distance, Yolo V 5 model was trained wit
 •	Calculate Mean Absolute precision (MAp)
 •	Got 0.8 value of MAP for validation samples
 
+## Documentation
+Access the Related Material and Demo from [here]
